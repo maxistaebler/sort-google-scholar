@@ -1,0 +1,112 @@
+Rank,Author,Title,Citations,Year,Source,cit/year
+2,"LeCun, Y Bengio, G Hinton",Deep learning,44337,2015,https://www.nature.com/articles/nature14539,6334
+1,"Goodfellow, Y Bengio, A Courville",Deep learning,33377,2016,https://books.google.com/books?hl=en&lr=&id=omivDQAAQBAJ&oi=fnd&pg=PR5&dq=Deep+Learning&ots=MNP6epsAVR&sig=Tlcb6ZcuPIhkUH6Vki64B2omupQ,5563
+22,Schmidhuber,Deep learning in neural networks: An overview,14304,2015,https://www.sciencedirect.com/science/article/pii/S0893608014002135,2043
+95,"Paszke, S Gross, F Massa, A Lerer…","Pytorch: An imperative style, high-performance deep learning library",10733,2019,http://papers.nips.cc/paper/9015-pytorch-an-imperative-style-highperformance-deep-learning-library,3578
+98,"Liu, P Luo, X Wang, X Tang",Deep learning face attributes in the wild,4460,2015,http://openaccess.thecvf.com/content_iccv_2015/html/Liu_Deep_Learning_Face_ICCV_2015_paper.html,637
+7,"Deng, D Yu",Deep learning: methods and applications,3688,2014,https://dl.acm.org/doi/abs/10.1561/2000000039,461
+21, Nielsen,Neural networks and deep learning,3315,2015,https://www.academia.edu/download/62971418/neuralnetworksanddeeplearning20200415-115041-1t7vxpc.pdf,474
+13,"Ngiam, A Khosla, M Kim, J Nam, H Lee, AY Ng",Multimodal deep learning,2873,2011,https://openreview.net/forum?id=Hk4OO3W_bS,261
+108,Chollet,Deep learning with Python,2789,2021,https://books.google.com/books?hl=en&lr=&id=XHpKEAAAQBAJ&oi=fnd&pg=PR9&dq=Deep+Learning&ots=BgWjfDPOMt&sig=qKijMfhj4EDwlCiQ7ujuOaiYXO0,2789
+59,"Shen, G Wu, HI Suk",Deep learning in medical image analysis,2179,2017,https://www.annualreviews.org/doi/abs/10.1146/annurev-bioeng-071516-044442,436
+72,"Sun, X Wang, X Tang","Deep learning face representation from predicting 10,000 classes",1991,2014,http://openaccess.thecvf.com/content_cvpr_2014/html/Sun_Deep_Learning_Face_2014_CVPR_paper.html,249
+99," Bronstein, J Bruna, Y LeCun…",Geometric deep learning: going beyond euclidean data,1965,2017,https://ieeexplore.ieee.org/abstract/document/7974879/,393
+39,"Gupta, A Agrawal…",Deep learning with limited numerical precision,1686,2015,http://proceedings.mlr.press/v37/gupta15.html,241
+107,"Chetlur, C Woolley, P Vandermersch…",cudnn: Efficient primitives for deep learning,1564,2014,https://arxiv.org/abs/1410.0759,196
+19,"Guo, Y Liu, A Oerlemans, S Lao, S Wu, MS Lew",Deep learning for visual understanding: A review,1483,2016,https://www.sciencedirect.com/science/article/pii/S0925231215017634,247
+10,"Kamilaris, FX Prenafet",Deep learning in agriculture: A survey,1412,2018,https://www.sciencedirect.com/science/article/pii/S0168169917308803,353
+97," Zhu, D Tuia, L Mou, GS Xia, L Zhang…",Deep learning in remote sensing: A comprehensive review and list of resources,1407,2017,https://ieeexplore.ieee.org/abstract/document/8113128/,281
+70,"Shokri, V Shmatikov",Privacy-preserving deep learning,1370,2015,https://dl.acm.org/doi/abs/10.1145/2810103.2813687,196
+41,"Voulodimos, N Doulamis, A Doulamis…",Deep learning for computer vision: A brief review,1196,2018,https://www.hindawi.com/journals/CIN/2018/7068349/,299
+64,"Sun, A Shrivastava, S Singh…",Revisiting unreasonable effectiveness of data in deep learning era,1155,2017,http://openaccess.thecvf.com/content_iccv_2017/html/Sun_Revisiting_Unreasonable_Effectiveness_ICCV_2017_paper.html,231
+6,"Bengio, I Goodfellow, A Courville",Deep learning,1151,2017,https://www.academia.edu/download/62266271/Deep_Learning20200303-80130-1s42zvt.pdf,230
+31,"Ravì, C Wong, F Deligianni…",Deep learning for health informatics,1120,2016,https://ieeexplore.ieee.org/abstract/document/7801947/,187
+18,"Denil, B Shakibi, L Dinh, MA Ranzato…",Predicting parameters in deep learning,1120,2013,https://arxiv.org/abs/1306.0543,124
+65,"Esteva, A Robicquet, B Ramsundar, V Kuleshov…",A guide to deep learning in healthcare,1091,2019,https://www.nature.com/articles/s41591-018-0316-z,364
+20," Le, J Ngiam, A Coates, A Lahiri, B Prochnow…",On optimization methods for deep learning,1066,2011,https://openreview.net/forum?id=Sk4lD3W_bB,97
+25,"Min, B Lee, S Yoon",Deep learning in bioinformatics,1040,2017,https://academic.oup.com/bib/article-abstract/18/5/851/2562808,208
+73,"Ching, DS Himmelstein…",Opportunities and obstacles for deep learning in biology and medicine,1034,2018,https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2017.0387,258
+57, Aggarwal,Neural networks and deep learning,1016,2018,https://link.springer.com/content/pdf/10.1007/978-3-319-94463-0.pdf,254
+102,"Strubell, A Ganesh, A McCallum",Energy and policy considerations for deep learning in NLP,1013,2019,https://arxiv.org/abs/1906.02243,338
+88," Chen, X Lin",Big data deep learning: challenges and perspectives,1008,2014,https://ieeexplore.ieee.org/abstract/document/6817512/,126
+52,"Angermueller, T Pärnamaa, L Parts…",Deep learning for computational biology,998,2016,https://www.embopress.org/doi/abs/10.15252/msb.20156651,166
+104,"Tokui, K Oono, S Hido, J Clayton",Chainer: a next-generation open source framework for deep learning,986,2015,http://learningsys.org/papers/LearningSys_2015_paper_33.pdf,141
+26,"Gulli, S Pal",Deep learning with Keras,964,2017,https://books.google.com/books?hl=en&lr=&id=20EwDwAAQBAJ&oi=fnd&pg=PP1&dq=Deep+Learning&ots=lIbD8kfOW3&sig=-MeqXJnZk3UQWIR2xAZeecjSB4Q,193
+42,Marcus,Deep learning: A critical appraisal,809,2018,https://arxiv.org/abs/1801.00631,202
+60,"Neyshabur, S Bhojanapalli, D McAllester…",Exploring generalization in deep learning,701,2017,https://arxiv.org/abs/1706.08947,140
+29,"Patterson, A Gibson",Deep learning: A practitioner's approach,682,2017,https://books.google.com/books?hl=en&lr=&id=qrcuDwAAQBAJ&oi=fnd&pg=PR2&dq=Deep+Learning&ots=6nlLtvfkPS&sig=83ICxZE3lJlp6_j5FC050NltPHw,136
+85,Bengio,Deep learning of representations: Looking forward,674,2013,https://link.springer.com/chapter/10.1007/978-3-642-39593-2_1,75
+101," Schütt, HE Sauceda, PJ Kindermans…",Schnet–a deep learning architecture for molecules and materials,650,2018,https://aip.scitation.org/doi/abs/10.1063/1.5019779,162
+38,"Ren, W Zeng, B Yang…",Learning to reweight examples for robust deep learning,644,2018,http://proceedings.mlr.press/v80/ren18a.html,161
+43,"Zhang, P Cui, W Zhu",Deep learning on graphs: A survey,614,2020,https://ieeexplore.ieee.org/abstract/document/9039675/,307
+81,"Khan, T Yairi",A review on the application of deep learning in system health management,515,2018,https://www.sciencedirect.com/science/article/pii/S0888327017306064,129
+92,"Chartrand, PM Cheng, E Vorontsov, M Drozdzal…",Deep learning: a primer for radiologists,506,2017,https://pubs.rsna.org/doi/abs/10.1148/rg.2017170077,101
+3," Yan, B Yoshua, H Geoffrey",Deep learning,495,2015,http://udrc.eng.ed.ac.uk/sites/udrc.eng.ed.ac.uk/files/attachments/Deep%20Learning%20and%20its%20application%20to%20CV%20and%20NLP_0.pdf,71
+61,"Mamoshina, A Vieira, E Putin…",Applications of deep learning in biomedicine,474,2016,https://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00982,79
+105,"Eraslan, Ž Avsec, J Gagneur, FJ Theis",Deep learning: new computational modelling techniques for genomics,453,2019,https://www.nature.com/articles/s41576-019-0122-6,151
+79,"Seide, A Agarwal",CNTK: Microsoft's open-source deep-learning toolkit,446,2016,https://dl.acm.org/doi/abs/10.1145/2939672.2945397,74
+84,"Rivenson, Z Göröcs, H Günaydin, Y Zhang, H Wang…",Deep learning microscopy,445,2017,https://www.osapublishing.org/abstract.cfm?uri=optica-4-11-1437,89
+96," Goh, NO Hodas, A Vishnu",Deep learning for computational chemistry,440,2017,https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.24764,88
+69, Kutz,Deep learning in fluid dynamics,398,2017,https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/deep-learning-in-fluid-dynamics/F2EDDAB89563DE5157FC4B8342AD9C70,80
+49,"Zou, M Huss, A Abid, P Mohammadi, A Torkamani…",A primer on deep learning in genomics,356,2019,https://www.nature.com/articles/s41588-018-0295-5,119
+77,B Gamboa,Deep learning for time-series analysis,314,2017,https://arxiv.org/abs/1701.01887,63
+47,"Cao, F Liu, H Tan, D Song, W Shu, W Li…",Deep learning and its applications in biomedicine,301,2018,https://www.sciencedirect.com/science/article/pii/S1672022918300020,75
+63,"Kawaguchi, LP Kaelbling, Y Bengio",Generalization in deep learning,296,2017,https://arxiv.org/abs/1710.05468,59
+46,"Hardt, T Ma",Identity matters in deep learning,295,2016,https://arxiv.org/abs/1611.04231,49
+94,"Mardt, L Pasquali, H Wu, F Noé",VAMPnets for deep learning of molecular kinetics,292,2018,https://www.nature.com/articles/s41467-017-02388-1,73
+80,Aray,Deep-learning tomography,272,2018,https://library.seg.org/doi/abs/10.1190/tle37010058.1,68
+24,Kim,Matlab deep learning,271,2017,https://link.springer.com/content/pdf/10.1007/978-1-4842-2845-6.pdf,54
+66,"Wainberg, D Merico, A Delong, BJ Frey",Deep learning in biomedicine,262,2018,https://www.nature.com/articles/nbt.4233?linkId=56568955,66
+86,"Clanuwat, M Bobe",Deep learning for classical japanese literature,242,2018,https://arxiv.org/abs/1812.01718,60
+83,"Evermann, JR Rehse, P Fettke",Predicting process behaviour using deep learning,241,2017,https://www.sciencedirect.com/science/article/pii/S0167923617300635,48
+93,"Purwins, B Li, T Virtanen, J Schlüter…",Deep learning for audio signal processing,233,2019,https://ieeexplore.ieee.org/abstract/document/8678825/,78
+75,"Fullan, J Quinn, J McEachen",Could not catch title,220,2017,"Look manually at: https://scholar.google.com/scholar?start=60&q=Deep+Learning&hl=en&as_sdt=0,5",44
+50, Manning,Computational linguistics and deep learning,219,2015,https://direct.mit.edu/coli/article-abstract/41/4/701/1512,31
+48,Webb,Deep learning for biology.,219,2018,https://go.gale.com/ps/i.do?id=GALE%7CA660257863&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00280836&p=HRCA&sw=w,55
+11,"Yu, L Jia, Y Chen, W Xu","Deep learning: yesterday, today, and tomorrow",208,2013,https://crad.ict.ac.cn/EN/abstract/abstract1340.shtml,23
+109," McBee, OA Awan, AT Colucci, CW Ghobadi…",Deep learning in radiology,195,2018,https://www.sciencedirect.com/science/article/pii/S1076633218301041,49
+51,"Wang, B Raj",On the origin of deep learning,193,2017,https://arxiv.org/abs/1702.07800,39
+28, Sejnowski,The deep learning revolution,184,2018,https://books.google.com/books?hl=en&lr=&id=9xZxDwAAQBAJ&oi=fnd&pg=PR7&dq=Deep+Learning&ots=SHNhQ4svZb&sig=PQK7qkarevh5WSkPOD9T6aMOeNA,46
+27," Smith, SA Colby",Teaching for deep learning,180,2007,https://www.tandfonline.com/doi/abs/10.3200/TCHS.80.5.205-210,12
+32," Mater, ML Coote",Deep learning in chemistry,180,2019,https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00266,60
+14, Lauzon,An introduction to deep learning,171,2012,https://ieeexplore.ieee.org/abstract/document/6310529/,17
+53,"Christin, É Hervet, N Lecomte",Applications for deep learning in ecology,140,2019,https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13256,47
+76,"LeCun, M Ranzato",Deep learning tutorial,118,2013,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.366.4088&rep=rep1&type=pdf,13
+8, Kelleher,Deep learning,117,2019,https://books.google.com/books?hl=en&lr=&id=b06qDwAAQBAJ&oi=fnd&pg=PP9&dq=Deep+Learning&ots=_oC_TLoT-M&sig=FwXU-Q_ucicE8aVWZNCr-91CsIA,39
+35,Heaton,"Ian goodfellow, yoshua bengio, and aaron courville: Deep learning",116,2018,https://link.springer.com/article/10.1007/s10710-017-9314-z,29
+74," Thompson, K Greenewald, K Lee…",The computational limits of deep learning,114,2020,https://arxiv.org/abs/2007.05558,57
+90,"Ravi, J Reizenstein, D Novotny, T Gordon…",Accelerating 3d deep learning with pytorch3d,110,2020,https://arxiv.org/abs/2007.08501,55
+9,Rusk,Deep learning,107,2016,https://www.nature.com/articles/nmeth.3707,18
+82,"Norgeot, BS Glicksberg, AJ Butte",A call for deep-learning healthcare,106,2019,https://www.nature.com/articles/s41591-018-0320-3,35
+58,"Zhou, C Zhang, F Liu, Z Qiu…",Application of deep learning in food: a review,102,2019,https://onlinelibrary.wiley.com/doi/abs/10.1111/1541-4337.12492,34
+40," Wani, FA Bhat, S Afzal, AI Khan",Advances in deep learning,98,2020,https://link.springer.com/content/pdf/10.1007/978-981-13-6794-6.pdf,49
+30,"Hao, G Zhang, S Ma",Deep learning,97,2016,https://www.worldscientific.com/doi/abs/10.1142/S1793351X16500045,16
+15,Schmidhuber,Deep learning,94,2015,http://www.scholarpedia.org/article/Deep_Learning,13
+17,HO,Deep learning,90,2013,http://bigr.io/wp-content/uploads/2017/09/BigR.io-Deep-Learning-Image-and-Video-Recognition.pdf,10
+37,"Du, Y Cai, S Wang, L Zhang",Overview of deep learning,85,2016,https://ieeexplore.ieee.org/abstract/document/7804882/,14
+71,"Vo, N Jacobs, J Hays",Revisiting im2gps in the deep learning era,85,2017,http://openaccess.thecvf.com/content_iccv_2017/html/Vo_Revisiting_IM2GPS_in_ICCV_2017_paper.html,17
+55,Serre,"Deep learning: the good, the bad, and the ugly",84,2019,https://www.annualreviews.org/doi/abs/10.1146/annurev-vision-091718-014951,28
+16,"Nikolenko, A Kadurin, E Arkhangelskaya",Deep learning,78,2018,https://logic.pdmi.ras.ru/~sergey/teaching/mlharbour17/18-dl-regularization.pdf,20
+106,"Bahri, J Kadmon, J Pennington…",Statistical mechanics of deep learning,78,2020,https://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-031119-050745,39
+110,"Fan, C Ma, Y Zhong",A selective overview of deep learning,71,2019,https://arxiv.org/abs/1904.05526,24
+44,"Angelov, A Sperduti",Challenges in deep learning,62,2016,https://eprints.lancs.ac.uk/id/eprint/134273/,10
+36,"Hinton, Y LeCun, Y Bengio",Deep learning,61,2015,http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10596.pdf,9
+68,Michelucci,Applied Deep Learning,55,2018,https://link.springer.com/content/pdf/10.1007/978-1-4842-3790-8.pdf,14
+54,"Ahmad, H Farman, Z Jan",Deep learning methods and applications,51,2019,https://link.springer.com/content/pdf/10.1007/978-981-13-3459-7_3.pdf,17
+87, Kim,Book review: Deep learning,50,2016,https://synapse.koreamed.org/articles/1075818,8
+91,"Wang, Y Zhao, F Pourpanah",Recent advances in deep learning,49,2020,https://link.springer.com/article/10.1007/s13042-020-01096-5,24
+103,"Huang, A Hussain, QF Wang, R Zhang","Deep learning: fundamentals, theory and applications",46,2019,https://link.springer.com/content/pdf/10.1007/978-3-030-06073-2.pdf,15
+62,"Schulz, S Behnke",Deep learning,44,2012,https://link.springer.com/article/10.1007/s13218-012-0198-z?error=cookies_not_supported&error=cookies_not_supported&code=5ab49d84-744d-49f7-8176-60cc30df43b4&code=54e1ba17-ab75-4f76-b6e1-4f35b10f2314,4
+33,"Stevens, L Antiga, T Viehmann",Deep learning with PyTorch,43,2020,https://books.google.com/books?hl=en&lr=&id=fff1DwAAQBAJ&oi=fnd&pg=PR15&dq=Deep+Learning&ots=FC7ubQS6Tp&sig=5ggBwwkeGtArWXLH-Ky-hkkh0AQ,22
+4,Learning,Deep learning,40,2020,https://www.icpme.us/courses/CIBC_PDF/4.1%20CAD_Radiomics_and%20AI%20in%20Breast%20Imaging_Giger.pdf,20
+56,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=40&q=Deep+Learning&hl=en&as_sdt=0,5",0
+100,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=80&q=Deep+Learning&hl=en&as_sdt=0,5",0
+89,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=70&q=Deep+Learning&hl=en&as_sdt=0,5",0
+78,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=60&q=Deep+Learning&hl=en&as_sdt=0,5",0
+67,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=50&q=Deep+Learning&hl=en&as_sdt=0,5",0
+45,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=30&q=Deep+Learning&hl=en&as_sdt=0,5",0
+34,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=20&q=Deep+Learning&hl=en&as_sdt=0,5",0
+23,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=10&q=Deep+Learning&hl=en&as_sdt=0,5",0
+12,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=0&q=Deep+Learning&hl=en&as_sdt=0,5",0
+5,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=0&q=Deep+Learning&hl=en&as_sdt=0,5",0
+111,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=90&q=Deep+Learning&hl=en&as_sdt=0,5",0
