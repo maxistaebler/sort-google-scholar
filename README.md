@@ -11,22 +11,14 @@ the original file.
 As output, a .csv file will be returned with the name of the chosen keyword
 ranked by the number of citations.
 
-### UPDATES
-- Try running the code using Google Colab -> [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/WittmannF/sort-google-scholar/blob/master/Test_sortgs_py_on_Colab.ipynb)
-    - No install requirements! Limitations: Can't handle robot checking, so use it carefully.
-- Command line arguments. Ex: `$python sortgs.py --kw "deep learning"` (results saved in `deep_learning.csv`)
-- Handling robot checking with selenium.
-    - OBS: You might be asked to manually solve the first captcha for retrieving the content of the pages
-
-### Misc
-If this project was helpful to you in any way, feel free to buy me a cup of coffee :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QAQ4YJFQVXLMA&source=url)
-
-For a feedback, send me an email: fernando [dot] wittmann [at] gmail [dot] com
-
-
 ### Usage of `sortgs.py`
+
+Simply define your search-string in the `searchstring.txt`. Than run:
+```
+python sortgs.py
+```
+
+## Further paramaters
 ```
 usage: sortgs.py [-h] [--kw KEYWORD] [--sortby SORTBY] [--nresults NRESULTS]
                  [--csvpath CSVPATH] [--notsavecsv] [--plotresults]
@@ -99,18 +91,6 @@ Robot checking detected, handling with selenium (if installed)
 Loading next 40 results
 ```
 
-### Installation
-SortGS is not available (yet) on PyPa. The most straight foward way to use it is the following:
-1. Install Python 3 and its dependencies from **Requirements** (suggestion: use Ananconda https://www.anaconda.com/distribution/)
-2. Download the repository. Two ways to do this:
-    - Use the command `git clone https://github.com/WittmannF/sort-google-scholar.git` in your terminal (if linux/MAC) or CMD (if windows)
-    - Or download using this link: https://github.com/WittmannF/sort-google-scholar/archive/master.zip and unzip
-3. Open the folder of sortgs on your terminal (if linux/MAC) or CMD (if windows)
-4. Use the command `python sortgs.py --kw "your keyword"` (replace "your keyword" to any keyword that you'd like to search)
-5. A CSV file with the name `your_keyword.csv` should be created. 
-
-If those steps are too complicated for you, send me an email with a list of keyworks that you'd like them ranked to: fernando [dot] wittmann [at] gmail [dot] com
-
 ### Requirements
 If you install anaconda, all of those requirements (except selenium) are going to be met:
 - Python 2.7 or Python 3
@@ -119,22 +99,3 @@ If you install anaconda, all of those requirements (except selenium) are going t
 Highly suggested, if having problems with robot checking:
 - ChromeDriver: http://chromedriver.chromium.org/
     - After downloading chromedriver, rename it to `chromedriver` and add it in a folder accessible by the PATH (Example: your python directory. Mine is at `/Users/.../anaconda/bin/`)
-
-### Contributing
-In order to make contributions, all of the tests must be passed. In order to test the code, we will be using the DEBUG mode which is going to use a URL from web archive. Please make sure to save the URL you want to test on web archive in case it is different from the one I already saved. By default it only works in debug mode when using the keywords 'machine learning'. There are 6 tests and all of them are testing different aspects that should match when using SortGS. In order to run the test cases, just run:
-```
-$python -m unittest
-```
-
-### LICENSE
-- MIT
-
-
-### Citation
-This code was originally developed for my [MS Dissertation](http://repositorio.unicamp.br/jspui/handle/REPOSIP/330610). For referencing this tool, you can use the following:
-
-```
-WITTMANN, Fernando Marcos. Optimization applied to residential non-intrusive load monitoring. 2017. 
-Dissertation (Masters) - University of Campinas, School of Electrical and Computer Engineering, Campinas, SP. 
-Available in: <http://www.repositorio.unicamp.br/handle/REPOSIP/330610>.
-```

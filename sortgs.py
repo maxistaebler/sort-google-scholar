@@ -27,8 +27,12 @@ import warnings
 import sys
 if sys.version[0]=="3": raw_input=input
 
+# Import search string file
+with open('searchstring.txt', 'r') as file:
+    searchstring = file.read().replace('\n', '')
+
 # Default Parameters
-KEYWORD = 'machine learning' # Default argument if command line is empty
+KEYWORD = searchstring # Default argument if command line is empty
 NRESULTS = 100 # Fetch 100 articles
 CSVPATH = '.' # Current folder
 SAVECSV = True
@@ -292,7 +296,7 @@ def main():
 
     # Save results
     if save_database:
-        data_ranked.to_csv(os.path.join(path,keyword.replace(' ','_')+'.csv'), encoding='utf-8') # Change the path
+        data_ranked.to_csv('csv/' + os.path.join(path,keyword.replace(' ','_') + '.csv'), encoding='utf-8') # Change the path
 
 if __name__ == '__main__':
         main()
