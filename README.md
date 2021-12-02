@@ -15,7 +15,7 @@ ranked by the number of citations.
 
 Simply define your search-string in the `searchstring.txt`. Than run:
 ```
-python sortgs.py
+python sortgs.py --startyear 2016
 ```
 
 ## Further paramaters
